@@ -39,9 +39,9 @@
     </details>
   </li>
   <li>
-    <h3><a style="color: inherit" href="https://collectio-copy.netlify.app" target="_blank">Collectio</a> (👈 disponnible en cliquant ici) :</h3>
+    <h3><a style="color: inherit" href="https://collectio-copy.netlify.app" target="_blank">Collectio</a> (👈 disponible en cliquant ici) :</h3>
     <p style="opacity: 0.4">Du 27 Avril 2022 au 27 Mai 2022</p>
-    <p>Il s'agit du projet de fin d'étude que l'on a réalisé moi et 3 de mes camarades durant 1 mois.</p>
+    <p>Il s'agit du projet de fin d'étude que réalisé avec 3 camarades durant 1 mois.</p>
     <details>
       <summary>En savoir plus...</summary>
       <br />
