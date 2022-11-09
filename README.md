@@ -60,7 +60,8 @@
           </ul>
         </div>
       </div>
-      <img src="./img/Timers.png" />
+      <img src="./img/Timers1.png" />
+      <img src="./img/Timers2.png" />
     </details>
   </li>
   <li>
