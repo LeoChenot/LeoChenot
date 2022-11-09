@@ -29,13 +29,38 @@
 <h2 style="text-decoration: underline">Mes projets :</h2>
 <ul style="margin-bottom: 2em">
   <li>
-    <h3>Timers (en développement) :</h3>
-    <p style="opacity: 0.4">À partir de Juin</p>
+    <h3><a style="color: inherit" href="https://online-timers.netlify.app" target="_blank">Timers</a> (👈 disponible en cliquant ici) :</h3>
+    <p style="opacity: 0.4">Du 4 Juin au 5 Octobre 2022</p>
     <p>Il s'agit d'un projet personnel que j'ai commencé après la formation.</p>
     <details>
       <summary>En savoir plus...</summary>
-      <br/>
-      <img src="./img/Under_Construction.png" />
+      <br />
+      <p>
+        Timers est un site permettant de créer des minuteurs, triés par liste.
+      </p>
+      <h4>Technologies utilisées :</h4>
+      <div style="display: flex; column-gap: 2em; margin-bottom: 1em">
+        <div style="width: 12em">
+          <h5 style="margin-top: 0">Front</h5>
+          <ul>
+            <li>React</li>
+            <li>Redux</li>
+            <li>Sass</li>
+            <li>Axios</li>
+          </ul>
+        </div>
+        <div style="width: 12em">
+          <h5 style="margin-top: 0">Back</h5>
+          <ul>
+            <li>NodeJS</li>
+            <li>ExpressJS</li>
+            <li>PostgreSQL</li>
+            <li>JSON Web Tokens</li>
+            <li>BCrypt</li>
+          </ul>
+        </div>
+      </div>
+      <img src="./img/Timers.png" />
     </details>
   </li>
   <li>
