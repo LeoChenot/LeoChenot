@@ -38,6 +38,12 @@
       <p>
         Timers est un site permettant de créer des minuteurs, triés par liste.
       </p>
+      <a style="color: inherit" href="https://github.com/LeoChenot/timer-front" target="_blank">
+        Repo Front-End
+      </a>
+      <a style="color: inherit" href="https://github.com/LeoChenot/timer-back" target="_blank">
+        Repo Back-End
+      </a>
       <h4>Technologies utilisées :</h4>
       <div style="display: flex; column-gap: 2em; margin-bottom: 1em">
         <div style="width: 12em">
@@ -67,7 +73,7 @@
   <li>
     <h3><a style="color: inherit" href="https://collectio-copy.netlify.app" target="_blank">Collectio</a> (👈 disponible en cliquant ici) :</h3>
     <p style="opacity: 0.4">Du 27 Avril 2022 au 27 Mai 2022</p>
-    <p>Il s'agit du projet de fin d'étude que réalisé avec 3 camarades durant 1 mois.</p>
+    <p>Il s'agit du projet de fin d'étude que j'ai réalisé avec 3 camarades durant 1 mois.</p>
     <details>
       <summary>En savoir plus...</summary>
       <br />
@@ -79,6 +85,9 @@
         une seule et même plateforme, à l’inverse de la plupart des grands sites communautaires
         qui se spécialisent autour d’un unique média.
       </p>
+      <a style="color: inherit" href="https://github.com/LeoChenot/projet-7-multitheque-front-copy" target="_blank">
+        Repo Front-End
+      </a>
       <h4>Technologies utilisées :</h4>
       <div style="display: flex; column-gap: 2em; margin-bottom: 1em">
         <div style="width: 12em">
